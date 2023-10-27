@@ -1,0 +1,18 @@
+.add-edit-row {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+
+.add-edit-input,
+.add-edit-select {
+  margin-right: 1rem;
+}
+
+.add-edit-actions {
+  display: flex;
+  gap: 0.5rem;
+}
